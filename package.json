@@ -1,0 +1,24 @@
+{
+  "name": "payment-intent-stripe-backend",
+  "version": "1.0.0",
+  "description": "Learn How to make server-side code checkout form to complete various payments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barbarpotato/Payment-Intent-Stripe-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barbarpotato/Payment-Intent-Stripe-Backend/issues"
+  },
+  "homepage": "https://github.com/Barbarpotato/Payment-Intent-Stripe-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^12.9.0"
+  }
+}
